@@ -1,0 +1,6 @@
+git remote -v
+
+git remote add origin https://github.com/Zerbook/test-git-2.git
+
+git config user.name
+git config user.email
