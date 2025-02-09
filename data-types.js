@@ -19,11 +19,3 @@ const auto = {
 const vin = Symbol('WWN547')
 const numberBig = BigInt(20)
 
-console.log('nameAuto', nameAuto, typeof nameAuto)
-console.log('horsePower', horsePower, typeof horsePower)
-console.log('isPetrol', isPetrol, typeof isPetrol)
-console.log('journal', journal, typeof journal)
-console.log('carOwner', carOwner, typeof carOwner)
-console.log('auto', auto, typeof auto)
-console.log('vin', vin, typeof vin)
-console.log('numberBig', numberBig, typeof numberBig)

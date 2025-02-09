@@ -9,3 +9,5 @@ git push origin master - push в ветку master
 git reset - удаление из stage
 git diff - просмот последних изменений
 git reset --hard - отменяет изменения и возвращает файлы в старое состояние
+git branch develop - создание новой ветки develop
+git checkout develop - переключение на ветку develop
