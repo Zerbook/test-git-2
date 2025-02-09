@@ -19,3 +19,9 @@ const auto = {
 const vin = Symbol('WWN547')
 const numberBig = BigInt(20)
 
+const userAge = 35
+if (userAge >= 18) {
+    console.log('Вы совершеннолетний')
+} else {
+    console.log('Вы НЕ совершеннолетний')
+}
