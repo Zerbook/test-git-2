@@ -12,3 +12,4 @@ git reset --hard - отменяет изменения и возвращает �
 git branch develop - создание новой ветки develop
 git checkout develop - переключение на ветку develop
 git branch -d develop - удаление ветки develop
+git merge feature/main-page - код из feature/main-page мы хотим перенести в master ветку
