@@ -6,4 +6,6 @@ git log --oneline
 git push [rep_link] [branch_name]
 git branch -просмотр ветки
 git push origin master - push в ветку master
-git reset
+git reset - удаление из stage
+git diff - просмот последних изменений
+git reset --hard - отменяет изменения и возвращает файлы в старое состояние
